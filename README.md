@@ -2,16 +2,6 @@
 
 This project is a simple RESTful API for a personal blogging platform built with Go. It demonstrates basic CRUD operations for blog posts, including creating, reading, updating, and deleting blog posts.
 
-## Goals
-
-The goals of this project are to help you:
-- Understand what RESTful APIs are, including best practices and conventions.
-- Learn how to create a RESTful API.
-- Learn about common HTTP methods like GET, POST, PUT, PATCH, DELETE.
-- Learn about status codes and error handling in APIs.
-- Learn how to perform CRUD operations using an API.
-- Learn how to work with databases.
-
 ## Requirements
 
 The API allows users to perform the following operations:
